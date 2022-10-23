@@ -1,0 +1,9 @@
+Sun Oct 23 19:05:31 YEKT 2022 каталог src успешно создан в директории Games
+Sun Oct 23 19:05:31 YEKT 2022 каталог res успешно создан в директории Games
+Sun Oct 23 19:05:31 YEKT 2022 каталог savegames успешно создан в директории Games
+Sun Oct 23 19:05:31 YEKT 2022 каталог temp успешно создан в директории Games
+Sun Oct 23 19:05:31 YEKT 2022 каталог main успешно создан в директории Games\src
+Sun Oct 23 19:05:31 YEKT 2022 каталог test успешно создан в директории Games\src
+Sun Oct 23 19:05:31 YEKT 2022 файл Main.java успешно создан в директории Games\src\main
+Sun Oct 23 19:05:31 YEKT 2022 файл Utils.java успешно создан в директории Games\src\main
+Sun Oct 23 19:05:31 YEKT 2022 файл temp.txt успешно создан в директории Games\temp
